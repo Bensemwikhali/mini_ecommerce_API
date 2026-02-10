@@ -99,7 +99,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/bensemwikhali/mini-ecommerce-api.git
+git clone https://github.com/benseshibuyanga/mini-ecommerce-api.git
 cd mini-ecommerce-api
 Set up the database
 
